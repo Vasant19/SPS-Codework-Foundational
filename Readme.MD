@@ -117,34 +117,13 @@ fetch("http://localhost:3000/api/courses", {
   .catch((error) => console.log(error));
 ```
 
-## Created & Maintained By
-
-<table>
-  <tr>
-    <td align="center"><a href="http://nmanikiran.com"><img src="https://avatars2.githubusercontent.com/u/3726349?s=460&v=4" width="100px;" alt="Mani Kiran"/><br /><sub><b>Mani Kiran N</b></sub></a><br />
-    <a href="#" title="Code">💻 </a>
-    <a href="#" title="Documentation">📖</a>
-    <a href="#" title="Ideas">🤔</a>
-    <a href="#" title="Reviewed Pull Requests">👀</a>
-    <a href="#" title="Maintenance">🚧 </a>
-    </td>
-    <td align="center"><a href="https://curioustushar.github.io/"><img src="https://avatars3.githubusercontent.com/u/12570521?v=4" width="100px;" alt="Tushar Gupta"/><br /><sub><b>Tushar Gupta</b></sub></a><br />
-    <a href="#" title="Code">💻 </a>
-    <a href="#" title="Documentation">📖</a>
-    <a href="#" title="Answering Questions">💬 </a>
-    <a href="#" title="Maintenance">🚧 </a>
-    </td>
-  </tr>
-</table>
-
-Feel free to reach out to me through @nmanikiran if you have any questions or feedback!
-
 ## Recommended / Preferred
 
 [VSCode](https://code.visualstudio.com/download)
 
 ## Thanks & Credits to
-
+- Mani kiran - http://nmanikiran.com
+- Tushar gupta - https://curioustushar.github.io/
 - Envato Tuts+ [30 Days to Learn HTML & CSS (Full Course)](https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F)
 - Wes Bos [JavaScript30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 - CodeWorkr [REST API with Node (Express & MongoDB)](https://www.youtube.com/playlist?list=PLSpJkDDmpFZ5rZ5-Aur9WRNsBDSUS-0B9)

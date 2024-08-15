@@ -4,10 +4,6 @@ This is a simple REST API developed using node and express with typescript
 
 ![alt text](https://image.ibb.co/nAd9OF/logos.png "Node Typescript")
 
-## ❤️ Found this project useful?
-
-If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
-
 ## Requirements
 
 [Node.js](https://nodejs.org/en/), [postgresql](https://www.postgresql.org/download/)
